@@ -1,9 +1,4 @@
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/brand/upload-telegram-logo-dark.svg">
-  <img src="docs/brand/upload-telegram-logo-dark.svg" alt="upload-telegram" width="420">
-</picture>
-
 **Automação Profissional de Upload e Backup Estruturado para o Telegram.**
 
 **O script definitivo para enviar cursos, treinamentos e arquivos gigantes para canais do Telegram.**
